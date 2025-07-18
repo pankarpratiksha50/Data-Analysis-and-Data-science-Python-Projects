@@ -10,3 +10,13 @@ This project demonstrates how to perform data analysis and visualization using f
   3)Matplotlib for basic plotting
 
   4)Seaborn for advanced, aesthetically pleasing visualizations
+# 🔍 Key Objectives:
+   Load and explore a dataset using Pandas
+
+   Perform data cleaning and preprocessing
+
+   Use NumPy for numerical operations and statistical calculations
+
+   Visualize data trends and distributions using Matplotlib and Seaborn
+
+   Derive insights through data correlation and comparison
