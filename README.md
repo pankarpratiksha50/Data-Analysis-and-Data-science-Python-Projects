@@ -30,3 +30,14 @@ This project demonstrates how to perform data analysis and visualization using f
   
   import seaborn as sns
 
+# 📈 Project Highlights:
+  Handling missing data
+
+  Grouping and aggregating data
+
+  Creating line plots, bar charts, histograms, and heatmaps
+
+  Statistical analysis (mean, median, correlation matrix)
+
+
+
