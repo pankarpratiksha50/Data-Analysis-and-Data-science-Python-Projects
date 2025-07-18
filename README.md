@@ -20,3 +20,13 @@ This project demonstrates how to perform data analysis and visualization using f
    Visualize data trends and distributions using Matplotlib and Seaborn
 
    Derive insights through data correlation and comparison
+
+# 📦 Libraries Used:
+  import pandas as pd
+  
+  import numpy as np
+  
+  import matplotlib.pyplot as plt
+  
+  import seaborn as sns
+
