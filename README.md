@@ -10,7 +10,7 @@ This project demonstrates how to perform data analysis and visualization using f
   3)Matplotlib for basic plotting
 
   4)Seaborn for advanced, aesthetically pleasing visualizations
-# 🔍 Key Objectives:
+#  Key Objectives:
    Load and explore a dataset using Pandas
 
    Perform data cleaning and preprocessing
@@ -21,7 +21,7 @@ This project demonstrates how to perform data analysis and visualization using f
 
    Derive insights through data correlation and comparison
 
-# 📦 Libraries Used:
+#  Libraries Used:
   import pandas as pd
   
   import numpy as np
@@ -30,7 +30,7 @@ This project demonstrates how to perform data analysis and visualization using f
   
   import seaborn as sns
 
-# 📈 Project Highlights:
+#  Project Highlights:
   Handling missing data
 
   Grouping and aggregating data
